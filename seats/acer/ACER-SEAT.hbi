@@ -1,0 +1,5 @@
+HBIROW|kind=seat-emitter|seat=ACER|schema=ANALYSIS-CUBES-SEAT-HBI-V1|json=0
+EMIT|family=seat|name=acer-origin-lane|status=REPORTED_REMOTE|json=0
+EMIT|family=source|name=official-dvids-pr038-master|status=REPORTED_DOWNLOADED|json=0
+EMIT|family=cubes|name=uap-34-body-cubeset|status=REPORTED_ACER_MEASURED|json=0
+EMIT|family=provider|name=paid-openai-sessions|status=HELD_MAX_SPEND_UNSET|json=0

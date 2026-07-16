@@ -1,0 +1,7 @@
+SOURCEHDR|schema=OFFICIAL-VIDEO-SOURCE-RECEIPT-V1|seat=ACER|case=PR038|json=0
+AUTHORITY|organization=AARO_DVIDS|command=USCENTCOM|year=2013|case_status=UNRESOLVED|json=0
+ASSET|filename=DOD_111689051|dvids_video_id=1006088|duration=00:01:46|role=OFFICIAL_MASTER|json=0
+SHA256|value=BD3F5269C3F123B90DB76C9496F8DDBB145184C66B0C11CD3CFD9E54F5B683B6|status=REPORTED_ACER_NOT_VERIFIED_ON_RELIC|json=0
+DECODE|ffmpeg_null_decode=REPORTED_PASS|ffprobe=REPORTED_RUN|local_replay_on_relic=NOT_RUN|json=0
+CONTROL|youtube_id=OE9_mAcvCT8|class=THIRD_PARTY_RECODE|authority=0|json=0
+NARRATIVE|description=eight_pointed_star_resemblance|analytical_judgment=0|investigative_conclusion=0|factual_determination=0|json=0
