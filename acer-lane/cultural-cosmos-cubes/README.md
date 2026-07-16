@@ -81,3 +81,21 @@ results/         generated HBP/HBI/SHA receipts (not hand-edited)
 
 The batch script invokes the existing dependency-free Rust unified trainer.
 It does not launch cloud agents, promote a GNN, or make physics claims.
+
+## Heritage / architecture / cosmos unified checkpoint
+
+[`heritage-architecture-cosmos-omega-20260716/`](heritage-architecture-cosmos-omega-20260716/)
+adds the independently verified 40-body geometric shadow over one sealed
+shared stream:
+
+- 8 cube poles × 800 cells;
+- 12 triangular sectors × 1,200 cells;
+- 20 finite Pi lenses × 2,000 cells;
+- 60,800 reversible cells total;
+- unified Omega
+  `106ed6dd85d2795a93880bb21ae187b6e14f3941a453766c7d0a7f4f69f2c3ba`.
+
+The committed lane is content-free: source archives, slice payloads, media,
+and training bytes are held locally. The 60,800-cell result is a measured
+checkpoint, not a convergence ceiling, trained Omega-GNN, compression-record
+claim, or physical-projection conclusion.
