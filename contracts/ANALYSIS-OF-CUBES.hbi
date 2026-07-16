@@ -1,0 +1,7 @@
+HBIROW|kind=emitter|schema=ANALYSIS-OF-CUBES-HBI-V1|json=0
+EMIT|family=repository|name=analysis-of-cubes-shared-contract|status=SEALED|json=0
+EMIT|family=geometry|name=8-pole-c2-power-3|status=DESIGN_LINEAGE|json=0
+EMIT|family=geometry|name=12-sector-cube-edge-shell|status=HYPOTHESIS_C8|json=0
+EMIT|family=geometry|name=24-direction-pi-sphere|status=PLANNING_ONLY|json=0
+EMIT|family=omega|name=three-family-unified-root|status=HELD|json=0
+EMIT|family=provider|name=paid-cloud-dispatch|status=HELD_MAX_SPEND_UNSET|json=0

@@ -1,0 +1,5 @@
+PROVIDERGATE|schema=PAID-CLOUD-COST-GATE-V1|max_spend_usd=UNSET|currency=USD|json=0
+DISPATCH|planned_external_sessions=9|authorized_sessions=0|status=HELD|json=0
+LOCAL|zero_spend_design_agents=ALLOWED|provider_call_count=0|json=0
+REQUIRED|max_spend_usd,provider,model,task_surface,per_call_limit,stop_condition,owner_authority|json=0
+RULE|no_silent_spend=1|no_agent_count_inflation=1|no_live_GNN_or_GitRAM_promotion=1|json=0

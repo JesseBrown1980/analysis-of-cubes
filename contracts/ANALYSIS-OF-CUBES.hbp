@@ -1,0 +1,10 @@
+ANALYSISCUBESHDR|schema=ANALYSIS-OF-CUBES-V1|repository=analysis-of-cubes|scope=HBP_HBI_SHA_RELIC_LABS|json=0
+BRANCHES|shared=main|seats=relic,liris,acer|seat_branch_is_authority=0|cross_seat_promotion=EXPLICIT_REVIEW_ONLY|json=0
+GEOMETRY|family_1=8_POLE_C2_POWER_3|family_2=12_CUBE_EDGE_SECTORS|family_3=24_DIRECTION_PI_SPHERE|unified_omega=HELD_PENDING_EXACT_ROOTS_AND_REPLAY|json=0
+CUBE|vertices=8|edges=12|faces=6|body=1|twelve_sector_interpretation=CUBE_EDGE_INTERFACE_MODEL|json=0
+OCCLUSION|hypothesis=C8|total_sectors=12|visible_model=8|occluded_model=4|uniform_rotation_prediction_deg=30|status=FALSIFIABLE_NOT_PROVEN|json=0
+SOURCEAUTHORITY|case=AARO_PR038|command=USCENTCOM|year=2013|status=UNRESOLVED|official_asset=DOD_111689051|control_recodes=NON_AUTHORITY|json=0
+EVIDENCEBOUNDARY|official_narrative=INFORMATIONAL_ONLY|analytical_judgment=NOT_PRESENT|physical_geometry=NOT_ESTABLISHED|json=0
+ARTIFACTPOLICY|tracked=HBP,HBI,SHA256,source_code,documentation|excluded=video,frames,weights,secrets,provider_payloads|json=0
+COSTGATE|max_spend_usd=UNSET|paid_cloud_sessions=HELD|local_zero_spend_design=ALLOWED|json=0
+VERDICT|shared_contract=SEALED_FOR_REPOSITORY_INITIALIZATION|scientific_claims=STATUS_SEPARATED|json=0

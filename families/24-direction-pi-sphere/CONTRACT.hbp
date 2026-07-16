@@ -1,0 +1,4 @@
+FAMILYHDR|schema=CUBE-FAMILY-V1|family=24_DIRECTION_PI_SPHERE|geometry=DIRECTIONAL_SPHERE|json=0
+STATUS|design=PLANNING_ONLY|measured=0|canon=0|json=0
+BOUNDARY|relationship_to_cube=TO_BE_PROVEN|relationship_to_PR038=NOT_ESTABLISHED|physical_claim=NONE|json=0
+HARNESS|planned_passes=2400|execution=HELD_NO_LOCAL_RESULT_IN_THIS_REPOSITORY|replay=REQUIRED|json=0

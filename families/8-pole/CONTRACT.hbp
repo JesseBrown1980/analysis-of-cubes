@@ -1,0 +1,4 @@
+FAMILYHDR|schema=CUBE-FAMILY-V1|family=8_POLE|geometry=C2_POWER_3_VERTICES|json=0
+STRUCTURE|vertices=8|parity_classes=EVEN,ODD|parity_counts=4,4|edges=12|faces=6|json=0
+CLAIMBOUNDARY|mathematical_structure=DEFINED|video_identification=NOT_INFERRED|physical_object=NOT_ESTABLISHED|json=0
+HARNESS|planned_passes=800|execution=HELD_NO_LOCAL_RESULT_IN_THIS_REPOSITORY|replay=REQUIRED|json=0

@@ -1,0 +1,4 @@
+OMEGAHDR|schema=THREE-FAMILY-OMEGA-V1|families=8_POLE,12_SECTOR,24_DIRECTION_PI_SPHERE|json=0
+ADMISSION|family_roots=REQUIRED|family_receipts=REQUIRED|forward_reverse_replay=REQUIRED|provider_ledgers=SEPARATE|json=0
+JOIN|operation=CONTENT_ADDRESSED_ORDERED_ROOT_JOIN|current_status=HELD|reason=FAMILY_EXECUTION_ROOTS_NOT_PRESENT|json=0
+NOINFLATE|logical_agents_not_provider_calls=1|planned_passes_not_measured_passes=1|rendered_geometry_not_physical_proof=1|json=0

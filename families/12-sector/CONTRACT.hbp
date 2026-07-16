@@ -1,0 +1,5 @@
+FAMILYHDR|schema=CUBE-FAMILY-V1|family=12_SECTOR|geometry=CUBE_EDGE_INTERFACES|json=0
+STRUCTURE|vertices=8|edges_or_sectors=12|faces=6|body=1|angular_index_step_deg=30|json=0
+PROJECTION|hypothesis=C8|visible_fraction=2/3|visible_sectors=8|occluded_sectors=4|status=FALSIFIABLE_MODEL|json=0
+FALSIFIER|test=RIGID_TRACKING_PLUS_ANGULAR_SPACING|survives_if=SECTOR_APPEARANCE_MATCHES_30_DEG_ROTATION|fails_if=COUNT_DRIFTS_WITH_BRIGHTNESS_OR_NONRIGID_MOTION|json=0
+HARNESS|planned_passes=1200|execution=HELD_NO_LOCAL_RESULT_IN_THIS_REPOSITORY|replay=REQUIRED|json=0
