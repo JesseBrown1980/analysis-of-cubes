@@ -1,0 +1,6 @@
+SEATHDR|schema=ANALYSIS-CUBES-SEAT-V1|seat=ACER|branch=acer|role=ORIGIN_MASTER_SOURCE_AND_EXECUTION_REPORT|json=0
+LOCALROOTS|acer_bytes_visible_on_relic=0|results=REPORTED_REMOTE|canon_promotion=0|json=0
+PR038|official_master_reported_present=1|asset=DOD_111689051|case=AARO_PR038|status=UNRESOLVED|json=0
+CUBESET|reported_bodies=34|reported_cells=27200|local_reverification=REQUIRED|json=0
+PROVIDER|max_spend_usd=UNSET|paid_sessions_authorized=0|json=0
+VERDICT|seat_initialized=1|authority=ACER_REPORT_ONLY_UNTIL_CROSS_SEAT_VERIFY|json=0

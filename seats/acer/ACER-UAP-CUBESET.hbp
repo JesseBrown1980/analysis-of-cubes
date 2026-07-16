@@ -1,0 +1,6 @@
+CUBESETHDR|schema=ACER-UAP-CUBESET-REPORT-V1|seat=ACER|status=REPORTED_ACER_MEASURED|json=0
+SOURCE|youtube_id=LzuUlMN4oBI|raw_sha256=8e8599af4114504c437c976b5a5ad2b0cc51298ad8ca98806eed772dade79c16|authority=THIRD_PARTY_SOURCE|json=0
+SLICES|count=814|method=EVERY_4TH_FRAME_64X36_GRAY_PGM|sha_sidecars=REPORTED|local_verification=NOT_RUN|json=0
+RESULT|path=PATH3_LEVEL2_PASS|bodies=34|cells=27200|accepted=17370|held=9830|gain_bytes=988263185|languages=34|json=0
+ROOTS|omega=d696e2a6edddd0171aaf738599d43837379b2f10587604da5436b9d2084d583b|epoch_root=365630fbcec|status=REPORTED_TRUNCATED_EPOCH_ROOT|json=0
+BOUNDARY|video_identity=UNRESOLVED|twelve_sector_geometry=HYPOTHESIS|physical_quantum_claim=NOT_ESTABLISHED|json=0

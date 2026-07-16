@@ -1,0 +1,5 @@
+HBIROW|kind=seat-emitter|seat=ACER|schema=ACER-UAP-CUBESET-HBI-V1|json=0
+EMIT|family=uap|name=uap-raw-video-pulled|pid=98c1942f22cf0387|status=REPORTED|json=0
+EMIT|family=uap|name=uap-814-slices|pid=817f991b1976719d|status=REPORTED|json=0
+EMIT|family=uap|name=uap-cubeset-sealed|pid=1437eeb6e4c41a54|status=REPORTED_ACER_MEASURED|json=0
+EMIT|family=uap|name=uap-tournament-pending|pid=bc5a21bd1b146163|status=HELD|json=0
