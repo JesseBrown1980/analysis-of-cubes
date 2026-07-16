@@ -1,0 +1,4 @@
+CORPUSHDR|schema=UCD_RANGE_TSV_V1|corpus=early-cuneiform-ucd|source_id=unicode-ucd|culture_id=EARLY_MESOPOTAMIA|script_id=EARLY_DYNASTIC_CUNEIFORM|language_id=UNSPECIFIED|json=0
+SOURCE|file=UnicodeData.txt|sha256=2e1efc1dcb59c575eedf5ccae60f95229f706ee6d031835247d843c11d96470c|ranges=12480-1254F|authority=Unicode_Consortium|json=0
+DERIVATIVE|file=unicode-assigned-codepoints.tsv|rows=196|sha256=d7feeb637a0c9aec1d8a75e7b5a6bc84fe1d12d3a23f31715a1421426353add4|normalization=assigned_records_sorted_by_codepoint_utf8_lf|json=0
+BOUNDARY|inventory_only=1|historical_language_semantics_claimed=0|translation_claimed=0|claims_final_apex=0|json=0

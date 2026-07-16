@@ -1,0 +1,4 @@
+CORPUSHDR|schema=UCD_RANGE_TSV_V1|corpus=anatolian-hieroglyphs-ucd|source_id=unicode-ucd|culture_id=ANATOLIA|script_id=ANATOLIAN_HIEROGLYPHS|language_id=LUWIAN_AND_RELATED|json=0
+SOURCE|file=UnicodeData.txt|sha256=2e1efc1dcb59c575eedf5ccae60f95229f706ee6d031835247d843c11d96470c|ranges=14400-1467F|authority=Unicode_Consortium|json=0
+DERIVATIVE|file=unicode-assigned-codepoints.tsv|rows=583|sha256=3e0e80a31a47cafe8b75f0e319acf25eb26279008f8e47f4381ba8ca5b033938|normalization=assigned_records_sorted_by_codepoint_utf8_lf|json=0
+BOUNDARY|inventory_only=1|historical_language_semantics_claimed=0|translation_claimed=0|claims_final_apex=0|json=0

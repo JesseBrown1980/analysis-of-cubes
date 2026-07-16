@@ -1,0 +1,4 @@
+CORPUSHDR|schema=UCD_RANGE_TSV_V1|corpus=egyptian-hieroglyphs-ucd|source_id=unicode-ucd|culture_id=ANCIENT_EGYPT|script_id=EGYPTIAN_HIEROGLYPHS|language_id=MULTIPLE_OR_UNSPECIFIED|json=0
+SOURCE|file=UnicodeData.txt|sha256=2e1efc1dcb59c575eedf5ccae60f95229f706ee6d031835247d843c11d96470c|ranges=13000-1345F|authority=Unicode_Consortium|json=0
+DERIVATIVE|file=unicode-assigned-codepoints.tsv|rows=1110|sha256=891aaf3753a22cc837df3a0208649dc89b59f123dc0dd07dc2ed8e65fea7cc40|normalization=assigned_records_sorted_by_codepoint_utf8_lf|json=0
+BOUNDARY|inventory_only=1|historical_language_semantics_claimed=0|translation_claimed=0|claims_final_apex=0|json=0

@@ -1,0 +1,20 @@
+* text=auto
+
+# Content-addressed receipts must hash identically across Windows and Linux.
+SHA256SUMS text eol=lf
+*.sha256 text eol=lf
+*.hbp text eol=lf
+*.hbi text eol=lf
+
+# Executable source and documentation use the same checkout bytes on every seat.
+*.ps1 text eol=lf
+*.rs text eol=lf
+*.md text eol=lf
+
+# Evidence and corpus payloads are byte-preserved.
+*.jpg -text
+*.jpeg -text
+*.png -text
+*.mp4 -text
+*.webm -text
+*.bin -text

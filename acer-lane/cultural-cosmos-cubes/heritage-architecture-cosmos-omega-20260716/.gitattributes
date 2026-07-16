@@ -1,0 +1,4 @@
+*.hex text eol=lf
+*.py text eol=lf
+.gitignore text eol=lf
+UPSTREAM-SHA256SUMS text eol=lf
