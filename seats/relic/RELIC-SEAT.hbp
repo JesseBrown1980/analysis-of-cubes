@@ -1,0 +1,6 @@
+SEATHDR|schema=ANALYSIS-CUBES-SEAT-V1|seat=RELIC|branch=relic|role=OBSERVATION_EVIDENCE_AND_INTERFACE|json=0
+LOCALROOTS|relic_lab=AETHER-LAB/RELIC|omega_interface=relic-lab-omega-omniverse|source_mutation=0|json=0
+PR038|official_master_present_on_relic=0|third_party_control_workspace_present=1|authority_status=HELD_UNTIL_MASTER_BYTES_VERIFIED_LOCAL|json=0
+GEOMETRY|canonical_inner=OMEGA_PLUS_SIX_VECTORS|projection_shell=12_CUBE_EDGE_MIDPOINTS|visible_model=8_OF_12|json=0
+INTERFACE|layers=TOPOLOGY,SHELL12,EVIDENCE,CAUSAL|external_telemetry=0|json=0
+VERDICT|seat_initialized=1|canon_promotion=0|json=0
