@@ -1,0 +1,5 @@
+RELICLABHDR|schema=RELIC-LAB-CUBE-ANALYSIS-V1|branch=relic|json=0
+SOURCES|primary=AETHER-LAB/RELIC|interface=relic-lab-omega-omniverse|read_only=1|json=0
+EVIDENCE|formats=HBP,HBI,SHA256|videos_tracked=0|frames_tracked=0|secrets_tracked=0|json=0
+MODEL|twelve_sector_status=HYPOTHESIS_C8|official_case_status=UNRESOLVED|narrative_is_analysis=0|json=0
+NEXT|official_master_local_hash=REQUIRED|sector_tracking=REQUIRED|sensor_artifact_controls=REQUIRED|json=0

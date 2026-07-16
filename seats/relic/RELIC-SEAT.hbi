@@ -1,0 +1,5 @@
+HBIROW|kind=seat-emitter|seat=RELIC|schema=ANALYSIS-CUBES-SEAT-HBI-V1|json=0
+EMIT|family=seat|name=relic-observation-lane|status=ACTIVE_LOCAL|json=0
+EMIT|family=source|name=pr038-official-master|status=HELD_NOT_PRESENT|json=0
+EMIT|family=control|name=third-party-video-forensics|status=LOCAL_CONTROL_LANE|json=0
+EMIT|family=interface|name=omega-12-sector-immersion|status=IMPLEMENTED_LOCAL|json=0
