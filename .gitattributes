@@ -1,0 +1,9 @@
+# Receipt and checksum artifacts are byte-exact. Never rewrite line endings.
+/.gitattributes text eol=lf
+*.hbp -text
+*.hbi -text
+*.sha256 -text
+SHA256SUMS -text
+
+# Reproducible source text.
+*.rs text eol=lf

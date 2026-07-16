@@ -14,6 +14,17 @@ Seat: **ACER-CLAUDE-FABLE5** (pid `8467a937cba309f7`). All values `REPORTED_REMO
   (content-free: hashes + counts, no image bytes): 3 families (8 cube-poles + 12 sectors
   + 20 Pi-lenses) × from one shared 0-loss root = 40 bodies / 60,800 cells,
   `omega_unified = 5d9d70a9…9379fc`, `claims_final_apex=0`. Plus the dep-free Rust trainer.
+- **`unified-omega-library/oe9-pr038-12-sector-test/`** — an independent replay of the same
+  8/12/Pi construct over 799 deterministic OE9 slices: 40 bodies / 60,800 cells,
+  all 40 bodies restored byte-exact, `omega_unified = 5ab7effa…3f2d9f`,
+  `claims_final_apex=0`. Receipts and the trainer are content-free.
+- **`unified-omega-library/UNIFIED-OMEGA-COMPARISON.hbp`** — binds the two measured
+  roots without treating either digest as evidence for the footage's physical identity.
+  Each run also has a companion `UNIFIED-OMEGA-RESULT.offsets.hbi` because the
+  producer HBI contains row SHA/hex mirrors but not byte offset/length fields.
+- **`unified-omega-library/SOURCE-BINDINGS.hbp`** — exact commit/blob bindings
+  from Metatagging, DBBH/Q-Prism, Path 2, N-Nest, the 3D slice harness, the
+  reductions map, and the high-dimensional control harness.
 - **`trained-cubes/uap-cubeset/`** — the Path-3 level-2 cube set trained on the UAP
   slices (content-free receipts).
 
