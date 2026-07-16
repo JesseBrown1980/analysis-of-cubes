@@ -1,0 +1,5 @@
+LIRISPLAN|schema=LIRIS-CUBE-VERIFY-V1|branch=liris|json=0
+PASSBUDGETS|8_pole=800|12_sector=1200|24_direction=2400|status=PLANNED_NOT_EXECUTED|json=0
+LEDGERS|exposure=SEPARATE|learning=SEPARATE|state=SEPARATE|lineage=SEPARATE|provider=SEPARATE|json=0
+PR038|official_master_required=1|youtube_recode_role=CONTROL_ONLY|sensor_bloom_control=REQUIRED|cloud_advection_control=REQUIRED|json=0
+STOP|on_hash_mismatch=HELD|on_nonrigid_tracking=HYPOTHESIS_FAILS|on_budget_missing=NO_PAID_DISPATCH|json=0

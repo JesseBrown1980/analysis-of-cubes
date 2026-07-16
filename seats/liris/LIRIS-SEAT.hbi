@@ -1,0 +1,6 @@
+HBIROW|kind=seat-emitter|seat=LIRIS|schema=ANALYSIS-CUBES-SEAT-HBI-V1|json=0
+EMIT|family=seat|name=liris-verification-lane|status=INITIALIZED|json=0
+EMIT|family=geometry|name=8-pole-attack-verify|status=PLANNED|json=0
+EMIT|family=geometry|name=12-sector-rigid-tracking|status=PLANNED|json=0
+EMIT|family=geometry|name=24-direction-replay|status=PLANNED|json=0
+EMIT|family=provider|name=paid-openai-sessions|status=HELD_MAX_SPEND_UNSET|json=0

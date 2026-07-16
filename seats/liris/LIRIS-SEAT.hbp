@@ -1,0 +1,6 @@
+SEATHDR|schema=ANALYSIS-CUBES-SEAT-V1|seat=LIRIS|branch=liris|role=ATTACK_VERIFY_REIMPLEMENT_AND_REPLAY|json=0
+LOCALROOTS|verified_on_this_node=0|remote_results=REPORTED_REMOTE_ONLY|canon_promotion=0|json=0
+GEOMETRYTESTS|8_pole=PARITY_AND_INVERSE_PAIR|12_sector=RIGID_TRACKING_30_DEG_AND_OCCLUSION|24_direction=INDEPENDENT_DIRECTIONAL_REPLAY|json=0
+REPLAY|forward=REQUIRED|reverse=REQUIRED|byte_exact=REQUIRED|held_on_mismatch=1|json=0
+PROVIDER|max_spend_usd=UNSET|paid_sessions_authorized=0|planning_only=1|json=0
+VERDICT|seat_initialized=1|execution=HELD_PENDING_LIRIS_BYTES_AND_COST_GATE|json=0
