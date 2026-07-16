@@ -20,3 +20,9 @@ build/
 *.key
 *.pem
 provider-payloads/
+
+# acer-lane content exception (operator-authorized 2026-07-16, OP-JESSE):
+# RELIC built the repo content-free; owner overrode for the ACER evidence lane so
+# the analysis subject (UAP screenshots) can be used, not just hash-referenced.
+!acer-lane/evidence/images/
+!acer-lane/evidence/images/**

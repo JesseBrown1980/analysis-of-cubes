@@ -38,5 +38,8 @@ Why the images are here *with* the findings: an analysis repo records the analys
 just the raw claim. The acer seat ran the exact filters the operator requested (negative,
 whole-frame, per-frame motion, circled ROI, edge detection) and reports what they showed.
 
-*Note: this lane adds raw media to a repo whose `main` was designed content-free (RELIC/Codex).
-It is scoped to the acer branch pending operator + cross-seat decision on merge.*
+*Note: RELIC built the repo content-free (`.gitignore` blocks media). The owner (OP-JESSE)
+authorized an exception for this ACER evidence lane on 2026-07-16 so the analysis subject
+(the UAP screenshots) can be used directly, not only hash-referenced — the `.gitignore` now
+un-ignores `acer-lane/evidence/images/`. Other lanes (main/relic/liris) stay content-free.
+The measured verdict above is unchanged: the images are the analysis subject, not proof.*
