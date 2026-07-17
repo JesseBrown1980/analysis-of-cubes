@@ -1,0 +1,5 @@
+synthetic glyph fixture only
+observed tokens: 8 12 20 120
+conditional tokens: 120 7 840
+product tokens: 8 12 20 7680
+No physical or production claim is encoded by this fixture.
